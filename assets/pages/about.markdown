@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-<img src="/assets/images/cobaltinfo.png" alt="Description of image" width="100%">
+<img src="../images/cobaltinfo.png" alt="Cobalt V0.01 Author" width="100%">
 
 Cobalt is an intuitive UI framework for Luau, made as an simpler alternative to Fusion. 
 

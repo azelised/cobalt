@@ -23,6 +23,7 @@ plugins:
 # -----------------------
 
 logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 aux_links:
   "Cobalt on GitHub":
