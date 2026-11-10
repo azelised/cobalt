@@ -16,6 +16,7 @@ theme: just-the-docs
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
 
 # -----------------------
 # Appearance settings
