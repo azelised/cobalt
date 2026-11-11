@@ -1,7 +1,7 @@
 ---
 layout: page
 title: :class()
-permalink: /functions/class/
+permalink: /cobalt/functions/class/
 parent: Functions
 ---
 

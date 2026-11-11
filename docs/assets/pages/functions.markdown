@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Functions
-permalink: /functions/
+permalink: /cobalt/functions/
 ---
 
 # Functions

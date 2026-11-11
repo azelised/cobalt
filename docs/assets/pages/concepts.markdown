@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concepts
-permalink: /concepts/
+permalink: /cobalt/concepts/
 ---
 
 # Concepts
