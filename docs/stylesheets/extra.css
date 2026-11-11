@@ -1,0 +1,34 @@
+:root  > * {
+  --md-primary-fg-color:        rgb(105, 101, 237);
+  --md-accent-fg-color:         rgb(105, 101, 237);
+}
+
+/* Light mode syntax colors */
+[data-md-color-scheme="default"] {
+  --md-code-bg-color: rgb(234, 235, 238);
+  --md-code-fg-color: rgb(29, 30, 36);
+  --md-code-hl-keyword-color: rgb(179, 75, 70);
+  --md-code-hl-string-color: rgb(116, 171, 45);
+  --md-code-hl-function-color: rgb(116, 112, 214);
+  --md-code-hl-comment-color: rgb(145, 151, 186);
+  --md-code-hl-number-color: rgb(212, 152, 3);
+  --md-code-hl-operator-color: rgb(127, 131, 156);
+  --md-code-hl-variable-color: rgb(29, 30, 36);
+}
+
+/* Dark mode syntax colors */
+[data-md-color-scheme="slate"] {
+  --md-code-bg-color: rgb(29, 30, 36);
+  --md-code-fg-color: rgb(188, 190, 200);
+  --md-code-hl-keyword-color: rgb(235, 121, 115);
+  --md-code-hl-string-color: rgb(208, 252, 150);
+  --md-code-hl-function-color: rgb(149, 146, 247);
+  --md-code-hl-comment-color: rgb(122, 126, 145);
+  --md-code-hl-number-color: rgb(242, 186, 42);
+  --md-code-hl-operator-color: rgb(143, 149, 179);
+  --md-code-hl-variable-color: rgb(188, 190, 200);
+}
+
+code, pre, .md-code {
+  font-size: 0.85rem; /* Adjust to your preferred size, e.g., 0.85rem or 14px */
+}

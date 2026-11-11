@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://azelised.github.io/cobalt/sitemap.xml
