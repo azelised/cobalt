@@ -5,8 +5,8 @@
 title: "Cobalt"
 description: >- # this means to ignore newlines until "baseurl:"
   "Cobalt, a lightweight and easy to learn UI framework for Roblox's Luau."
-baseurl: "/cobalt" # the subpath of your site, e.g. /blog
 url: "https://docs.azelised.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cobalt" # the subpath of your site, e.g. /blog
 
 # -----------------------
 # Build settings
