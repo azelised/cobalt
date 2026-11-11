@@ -27,11 +27,11 @@ favicon_ico: "/assets/images/favicon.ico"
 
 aux_links:
   "Cobalt on GitHub":
-    - "//github.com"
+    - "//github.com/azelised/cobalt"
 
 aux_links_new_tab: true
 
-color_scheme: purple
+color_scheme: blurple
 twitter_username: azelised
 github_username: azelised
 
