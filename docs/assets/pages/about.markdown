@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About
-permalink: /cobalt
+permalink: /
 ---
 
 <img src="../images/cobaltinfo.png" alt="Cobalt V0.01 Author" width="100%">

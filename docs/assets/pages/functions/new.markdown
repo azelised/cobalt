@@ -1,7 +1,7 @@
 ---
 layout: page
 title: :new()
-permalink: /cobalt/functions/new/
+permalink: /functions/new/
 parent: Functions
 ---
 
