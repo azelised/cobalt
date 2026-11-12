@@ -32,7 +32,7 @@ while maintaining core features of more complex frameworks.
 
 Cobalt can be installed using one of the package managers below.
 
-[Wally :lucide-package:](https://github.com/azelised/cobalt/releases){ .md-button .md-button--primary }
+[Wally :lucide-package:](https://wally.run/package/azelised/cobalt){ .md-button .md-button--primary }
 [Github :fontawesome-brands-github:](https://github.com/azelised/cobalt/releases){ .md-button }
 
 ## Using it in your code

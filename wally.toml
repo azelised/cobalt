@@ -1,0 +1,18 @@
+[package]
+name = "azelised/cobalt"
+description = "Cobalt is a hand-built, intuitive UI framework for Luau."
+version = "0.0.1"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = [
+  "default.project.json",
+  "src",
+  "src/**",
+  "LICENSE",
+  "wally.toml",
+]
+
+[dependencies]
