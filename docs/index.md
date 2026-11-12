@@ -9,7 +9,7 @@ icon: lucide/leaf
 
 ## What is Cobalt?
 
-Cobalt is an intuitive UI framework for Luau, 
+Cobalt is a hand-built, intuitive UI framework for Luau, 
 made as an beginner-friendly alternative to Fusion.
 
 ## Who is this for?

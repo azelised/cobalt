@@ -3,12 +3,13 @@ title: Concepts
 icon: lucide/app-window
 ---
 
-???+ Warning "Under Construction"
-    This page is under construction
-    
 Concepts are the fundamental building blocks of Cobalt. 
 They are virtualized instances, that become the final 
 product after rendering.
+
+<p align="center">
+    <img src="../images/conceptdiagram.png" alt="Virtualized Instances Diagram" width="750" />
+</p>
 
 ## :lucide-braces: New
 
@@ -21,7 +22,7 @@ cobalt:new(class--[[#(1)!]], props?--[[#(2)!]], source?--[[#(3)!]]): Concept
 but this field can also contain your concept's connections, children, and class params.
 3.  `classSource?` The source of the class, if its a user defined class or a base class.
         
-    ???+ info
+    ???+ Warning
         This parameter is optional, as both class types are checked by default.
 
 ##### Description
@@ -46,6 +47,43 @@ cobalt:class(class--[[#(1)!]], func--[[#(2)!]]): cobalt
 ##### Description
 Creates a new class, which can be used to override base classes and 
 allows parameters to be passed to it.
+
+##### Usage
+
+TBA
+
+## :lucide-braces: Render
+
+```lua
+Concept:render(parent?--[[#(1)!]]): Instance
+```
+
+1.  `Instance?` The instance that the concept should be parented to.
+
+    ???+ Warning
+        For performance reasons, only assign this parameter
+        if you aren't editing the base instances afterwards.
+
+##### Description
+Renders the concept into instances. This should be 
+called after you are finished editing the concept and
+ready to render it onto the screen.
+
+##### Usage
+
+TBA
+
+## :lucide-braces: Props
+
+```lua
+Concept:props(props--[[#(1)!]]): Concept
+```
+
+1.  `Props` Props is short for properties, 
+but this field can also contain your concept's connections, children, and class params.
+
+##### Description
+Allows you to assign additional Props to a concept. This can be useful for combining multiple tables.
 
 ##### Usage
 
