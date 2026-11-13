@@ -4,11 +4,15 @@
 
 Cobalt is a hand-built, intuitive UI framework for Luau, made as an beginner-friendly alternative to Fusion.
 
-<p align="center">
-  <a href="https://github.com/azelised/cobalt/releases">
-    <img width="200" alt="download" src="https://github.com/user-attachments/assets/108f7cfe-7830-43dd-9c49-4dfb1f379d63" />
+<a href="https://wally.run/package/azelised/cobalt">
+    <img width="100" alt="wally" src="https://github.com/user-attachments/assets/9d7a3aa1-38dd-4b43-ac6c-68fcb28e544b" />
   </a>
-</p>
+<a href="https://github.com/azelised/cobalt/releases">
+    <img width="100" alt="rbxm" src="https://github.com/user-attachments/assets/6ebbbbd6-a111-4cc4-9dd8-6e4b7b7e338f" />
+  </a>
+<a href="https://docs.azelised.dev/cobalt">
+    <img width="100" alt="docs" src="https://github.com/user-attachments/assets/70eb9348-d7cd-49de-b785-87a7059bdb49" />
+  </a>
 
 # Who is this for?
 
