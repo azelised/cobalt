@@ -355,7 +355,7 @@ end
 	@param value any -- The updated value your assigning it.
 ]=]
 function basevalue:set(value: any): Value
-	animate.stop(self)
+	animate.stop(self :: Value)
 	if self[2] ~= value then
 		self[2] = value
 		internal.callFunctions(self)

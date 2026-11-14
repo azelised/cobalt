@@ -170,7 +170,8 @@ end
 	@private
 ]=]
 function animate.stop(value)
-	if animations[value] then task.cancel(animations[value]) 
+	if animations[value] then 
+		task.cancel(animations[value]) 
 		animations[value] = nil 
 	end
 end
